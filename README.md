@@ -17,7 +17,7 @@ Version: 2.1+
 
 Use the install method
 
-```$LS_HOME/bin/plugin install logstash-input-log4j2```
+```logstash-plugin install logstash-input-log4j2```
 
 ### Logstash 1.4
 
