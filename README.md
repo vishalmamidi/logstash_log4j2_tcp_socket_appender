@@ -1,0 +1,1 @@
+# logstash_log4j2_tcp_socket_appender
